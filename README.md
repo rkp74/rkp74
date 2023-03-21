@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkp74" alt="rkp74" /></a> </p>
 
-- 🔭 I’m currently working on **Word Magic**
+- 🔭 I’m currently working on **Word Magic.**
 
-- 🌱 I’m currently learning **Natural Language Processing,Deep Learning,Django**
+- 🌱 I’m currently learning **Natural Language Processing,Deep Learning,Django.**
 
-- 👯 I’m looking to collaborate on **NLP and ML projects**
+- 👯 I’m looking to collaborate on **NLP and ML projects.**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
+- 👨‍💻 All of my projects are available at My Github Profile.
 
-- 💬 Ask me about **Natural Langauge Processing,Deep Learning**
+- 💬 Ask me about **Natural Langauge Processing,Deep Learning.**
 
 - 📫 How to reach me **rkp862003@gmail.com**
 
